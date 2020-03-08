@@ -6,12 +6,16 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "*************************************************************"
-printf "*                  System Hack Phishing                     *"
-printf "*                  Made By  Ankit Roy                       *"
-printf "*                  (ankitRay1, coder0101001)                *"
-printf "*************************************************************"
 
+
+   printf"
+    _    _    __  _ _   _____ 
+   / \  | \ | | |/ /_ _|_   _|
+  / _ \ |  \| | ' / | |  | |
+ / ___ \| |\  | . \ | |  | |
+/_/   \_\_| \_|_|\_\___| |_|
+"
+printf "\e[1;77m\e[0m\e[1;33mv1.1\e[0m\n"
 
 printf " Attacking targets without prior mutual consent\n"
 printf " is illegal!\n"
