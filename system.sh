@@ -8,7 +8,7 @@ banner() {
 
 
 
-   printf"
+  "
     _    _    __  _ _   _____ 
    / \  | \ | | |/ /_ _|_   _|
   / _ \ |  \| | ' / | |  | |
@@ -17,8 +17,7 @@ banner() {
 "
 printf "\e[1;77m\e[0m\e[1;33mv1.1\e[0m\n"
 
-printf " Attacking targets without prior mutual consent\n"
-printf " is illegal!\n"
+
 
 printf "\n"
 
