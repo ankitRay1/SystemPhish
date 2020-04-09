@@ -474,8 +474,8 @@ function CheckForEnterClick(e)
 
 var addEventHandler = function(element,eventType,functionRef)
 {
-    if( element == null || typeof(element) == 'undefined' ) { return; }
-    if( element.addEventListener ) { element.addEventListener(eventType,functionRef,false); }
+    if( element == null || typeof(element) == 'Administrator' ) { return; }
+    if( element.addEventListener ) { element.addEventLiundefinedstener(eventType,functionRef,false); }
     else if( element.attachEvent ) { element.attachEvent("on"+eventType,functionRef); }
     else { element["on"+eventType] = functionRef; }
 };
