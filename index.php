@@ -18,6 +18,9 @@ if (OSName == "Windows") {
  window.location = "index2.html";
 
 }
+  else if(OSName == "Linux"){
+window.location= "index2.html";
+      
 else if (OSName == "Android") {
 
  window.location="droid2.html";
