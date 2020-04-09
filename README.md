@@ -1,6 +1,13 @@
 # SystemPhish
 It is specially made for  grabbing the  windows Password , android pincode and iphone password  using pishing attacks.
 
+### Usage:
+```
+git clone https://github.com/ankitRay1/SystemPhish
+cd SystemPhish
+bash system.sh
+```
+
 
 ## For  Mac Os coming soon......
 
@@ -16,9 +23,4 @@ It is specially made for  grabbing the  windows Password , android pincode and i
 
 Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. 
 
-### Usage:
-```
-git clone https://github.com/ankitRay1/SystemPhish
-cd SystemPhish
-bash system.sh
-```
+
