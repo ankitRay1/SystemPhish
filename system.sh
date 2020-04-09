@@ -5,21 +5,7 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
- "
-    _    _   _  _ __ __ _____
-   / \  | \ | | |/ /_ _|_   _|
-  / _ \ |  \| | ' / | |  | |
- / ___ \| |\  | . \ | |  | |
-/_/   \_\_| \_|_|\_\___| |_|
-"
-
-<<<<<<< HEAD
-printf "\e[1;77m\e[0m\e[1;33mv1.0\e[0m\n"
-
-
-=======
-
-
+ 
   "
     _    _    __  _ _   _____ 
    / \  | \ | | |/ /_ _|_   _|
@@ -29,8 +15,13 @@ printf "\e[1;77m\e[0m\e[1;33mv1.0\e[0m\n"
 "
 printf "\e[1;77m\e[0m\e[1;33mv1.1\e[0m\n"
 
+printf " \n\e[1;77m coded by: github.com/ankitray1/systemphish\e[0m \n"
+printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
+printf " testing in an authorized simulated cyberattack\n"
+printf " Attacking targets without prior mutual consent\n"
+printf " is illegal!\n"
 
->>>>>>> 4f5b0e9e8f220c960285f806102f31b532d861fd
+
 
 printf "\n"
 
