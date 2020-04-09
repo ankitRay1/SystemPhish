@@ -1,5 +1,5 @@
 # SystemPhish
-It is specially made for  grabbing the  windows Password , android pincode and iphone password  using pishing attacks.
+It is specially made for  grabbing the  windows Password , android pincode and iphone password  using phishing attacks.
 
 ### Usage:
 #### Turn on Wifi hotspot in Termux before executing commands..
